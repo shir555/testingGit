@@ -2,7 +2,7 @@ package com.example.shirliya1.gitapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-//this is a my test of git doing hi you hi
+//this is a my test of git doing hi you hibla bla
 public class MainActivity extends AppCompatActivity {
 
     @Override
